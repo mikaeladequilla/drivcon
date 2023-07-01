@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drivcon/static/css/main.8c798457.css",
+    "main.js": "/drivcon/static/js/main.e00e03f5.js",
+    "static/js/787.c1975a1e.chunk.js": "/drivcon/static/js/787.c1975a1e.chunk.js",
+    "static/media/login&register-bg.png": "/drivcon/static/media/login&register-bg.0245ff54606bf535c5f3.png",
+    "static/media/nurse.png": "/drivcon/static/media/nurse.a0941539692cb864fedb.png",
+    "static/media/home-bg.png": "/drivcon/static/media/home-bg.9c1a8e28d128a08e5ce6.png",
+    "static/media/dev-dequilla.jpg": "/drivcon/static/media/dev-dequilla.a8bf57ad24894a62e6ea.jpg",
+    "static/media/dev-mandia.jpg": "/drivcon/static/media/dev-mandia.e10e5f014646f36854a4.jpg",
+    "static/media/dev-mira.jpg": "/drivcon/static/media/dev-mira.a0cc5085a1774455d687.jpg",
+    "static/media/dev-cabellon.jpg": "/drivcon/static/media/dev-cabellon.c23012806fea07ae563b.jpg",
+    "index.html": "/drivcon/index.html",
+    "main.8c798457.css.map": "/drivcon/static/css/main.8c798457.css.map",
+    "main.e00e03f5.js.map": "/drivcon/static/js/main.e00e03f5.js.map",
+    "787.c1975a1e.chunk.js.map": "/drivcon/static/js/787.c1975a1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c798457.css",
+    "static/js/main.e00e03f5.js"
+  ]
+}
